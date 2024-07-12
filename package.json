@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "This is my first server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akashmishra-777/server.git"
+  },
+  "author": "Akash Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akashmishra-777/server/issues"
+  },
+  "homepage": "https://github.com/akashmishra-777/server#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
