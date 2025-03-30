@@ -21,7 +21,7 @@ app.get("/",(req,res)=>{
 })
 
 
-app.listen(process.env.PORT,()=>{
+app.listen(3000,()=>{
     console.log('====================================');
     console.log("Server is running on PORT : 8080");
     console.log('====================================');
